@@ -1,0 +1,56 @@
+/*evented img cursor settings[begin]*/
+img.transmap{
+	cursor:pointer;
+}
+div.servicelist div.items img{
+	cursor:pointer;
+}
+div#right2cols img{
+	cursor:pointer;
+}
+div#right2cols img.header{
+	cursor:auto;
+}
+div.h_menuItem{
+	cursor:pointer;
+}
+div.nameplates img{
+	cursor:pointer;
+}
+div.searchBtn img{
+	cursor:pointer;
+}
+div.upper div.header{
+	cursor:pointer;
+}
+div.upper img.btn{
+	cursor:pointer;
+}
+div.upper img.btnOver{
+	cursor:pointer;
+}
+div.lower img.btn{
+	cursor:pointer;
+}
+div.lower img.btnOver{
+	cursor:pointer;
+}
+div.content_lead div.btn{
+	cursor:pointer;
+}
+div.itemcontent img{
+	cursor:pointer;
+}
+img.btnOver{
+	cursor:pointer;
+}
+div.usedSalesPhoto img.getu{
+	cursor:pointer;
+}
+div.usedSalesPhoto img.getuOver{
+	cursor:pointer;
+}
+div.footer li.footer{
+	cursor:pointer;
+}
+/*evented img cursor settings[end]*/
