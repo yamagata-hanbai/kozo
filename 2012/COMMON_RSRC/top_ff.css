@@ -1,0 +1,153 @@
+
+/*vertical menu template*/
+div#mainVisual_largeSWF{
+	margin:0px;
+	margin-bottom:14px;
+	padding:0px;
+	border:0px;
+	width:720px;
+	height:500px;
+}
+div#mainVisual_smallSWF{
+	margin:0px;
+	margin-bottom:10px;
+	padding:0px;
+	border:0px;
+	width:720px;
+	height:276px;
+}
+div#rotate_SWF{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	width:720px;
+	height:96px;
+}
+div#left2cols{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	width:350px;
+	margin-right:10px;
+	float:left;
+}
+div#right2cols{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	width:350px;
+	position:absolute;
+	left:361px;
+	display:block;
+}
+
+div#right2cols_2{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	width:390px;
+	position:absolute;
+	left:360px;
+	display:block;
+}
+
+
+div#right1 img.header{
+	margin-bottom:10px;
+}
+div#right2 img{
+	margin-bottom:5px;
+}
+div#right2 img.header{
+	margin-top:4px;
+	margin-bottom:10px;
+}	
+div#right2 img.imgmrgr{
+	margin-bottom:5px;
+	margin-right:9px;
+}
+div#right1{
+	width=350px;
+	height:185px;
+	overflow:hidden;
+}
+div#right1 img{
+	position:relative;
+	float:left;
+}
+div#right1 img.header{
+	margin-bottom:10px;
+}
+img.btn01uOver{
+	top:-74px;
+	visibility:hidden;
+}
+img.btn02u{
+	top:-74px;
+}
+img.btn02uOver{
+	top:-148px;
+	left:176px;
+	visibility:hidden;
+}
+img.btn03u{
+	top:-74px;
+	left:-174px;
+}
+img.btn03uOver{
+	top:-148px;
+	visibility:hidden;
+}
+img.btn04u{
+	top:-148px;
+}
+img.btn04uOver{
+	top:-222px;
+	left:176px;
+	visibility:hidden;
+}
+
+div#right2{
+	width=350px;
+	height:110px;
+	display:block;
+	overflow:;
+}
+div#right2 img.header{
+	margin-top:4px;
+	margin-bottom:10px;
+}	
+div#right2 img{
+	position:relative;
+}
+img.btn01lOver{
+	top:0px;
+	left:-169px;
+	visibility:hidden;
+}
+img.btn02l{
+	top:-38px;
+	left:178px;
+}
+img.btn02lOver{
+	top:-38px;
+	left:9px;
+	visibility:hidden;
+}
+img.btn03l{
+	top:-33px;
+}
+img.btn03lOver{
+	top:-33px;
+	left:-169px;
+	visibility:hidden;
+}
+img.btn04l{
+	top:-71px;
+	left:178px;
+}
+img.btn04lOver{
+	top:-71px;
+	left:9px;
+	visibility:hidden;
+}
