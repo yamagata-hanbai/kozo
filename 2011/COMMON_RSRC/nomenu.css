@@ -1,0 +1,24 @@
+/* menu box unrender optional stylesheet for whole_*.css */
+body{
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+div#header{
+	display:none;
+}
+div#v_menu{
+	display:none;
+}
+div#h_menu{
+	display:none;
+}
+div.container{
+	position:static;
+	top:0px;
+	left:0px;
+	height:1075px;
+}
+div.footer{
+	display:none;
+}
