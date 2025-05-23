@@ -54,3 +54,7 @@ function jump22(){
 	parent.frame1.location.href = "../2022/2022.html";
 	parent.frame2.location.href = "../year/button22.html";
 }
+function jump23(){
+	parent.frame1.location.href = "../2023/2023.html";
+	parent.frame2.location.href = "../year/button23.html";
+}

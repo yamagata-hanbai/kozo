@@ -1,19 +1,23 @@
 body{
-/*
-	background-image: url(../images/pics201112.jpg);
+
+	background-image: url(../images/sakura019_01.gif);
 	background-repeat: repeat
 } 
 img{
  display:block;
  margin:0; padding:0;
 }
-*/
 
+/*
 background:#ddd url(../images/yuki1.jpg) no-repeat center center;
 background-size:cover;
+*/
 
 #main{
-background-image: url(../images/001on.gif) , url(../images/onsen.gif);
+
+/*background-image: url(../images/001on.gif) , url(../images/onsen.gif);*/
+
+background-image: url(../images/h28haru.jpg);
 
 /*background-image: url(../images/image001.gif) , url(../images/2017TSUYU.gif);*/
 
@@ -25,7 +29,7 @@ background-repeat:no-repeat , no-repeat;
 /*background-position: 0px 0px , 0px 0px;*/
 background-position: 515px 118px , 0px 0px;
 
-width: 720px; height: 170px; /*バナーの大きさ*/
+width: 720px; height: 266px; /*バナーの大きさ*/
 
 margin: 0 auto;
 }

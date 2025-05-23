@@ -1,6 +1,7 @@
 body{
 
-	background-image: url(../images/bg_kessho5.gif);
+
+	background-image: url(../images/momiji3.png);
 	background-repeat: repeat
 
 /*
@@ -20,11 +21,11 @@ img{
 
 #main{
 
-
+/*
 background-image: url(../images/001on.gif) , url(../images/onsen.gif);
 background-repeat:no-repeat , no-repeat;
 background-position: 515px 118px , 0px 0px;
-
+*/
 /*
 background-image: url(../images/sh1.gif) , url(../images/h28haru.jpg);
 */
@@ -34,11 +35,11 @@ background-image: url(../images/2017TSUYU.gif);
 /*
 background-image: url(../images/kozo_1.gif) , url(../images/160514.gif);
 */
-/*
+
 background-image: url(../images/aki_03.gif);
 background-repeat:no-repeat , no-repeat;
 background-position: 0px 0px , 0px 0px;
-*/
+
 
 
 width: 720px; height: 162px; /*ƒoƒi[‚Ì‘å‚«‚³*/
@@ -90,6 +91,7 @@ text-indent:-5000px;
 #menu li.y2020 a {background:url(../images/20201.gif) no-repeat;}
 #menu li.y2021 a {background:url(../images/20211.gif) no-repeat;}
 #menu li.y2022 a {background:url(../images/20221.gif) no-repeat;}
+#menu li.y2023 a {background:url(../images/20231.gif) no-repeat;}
 
 #menu li.y2009 a:hover {background:url(../images/20091.gif) no-repeat 0px -50px;}
 #menu li.y2010 a:hover {background:url(../images/20101.gif) no-repeat 0px -50px;}
@@ -105,6 +107,7 @@ text-indent:-5000px;
 #menu li.y2020 a:hover {background:url(../images/20201.gif) no-repeat 0px -50px;}
 #menu li.y2021 a:hover {background:url(../images/20211.gif) no-repeat 0px -50px;}
 #menu li.y2022 a:hover {background:url(../images/20221.gif) no-repeat 0px -50px;}
+#menu li.y2023 a:hover {background:url(../images/20231.gif) no-repeat 0px -50px;}
 
 #menu li.o2009 a {background:url(../images/20091.gif) no-repeat 0 -100px;}
 #menu li.o2010 a {background:url(../images/20101.gif) no-repeat 0 -100px;}
@@ -120,6 +123,7 @@ text-indent:-5000px;
 #menu li.o2020 a {background:url(../images/20201.gif) no-repeat 0 -100px;}
 #menu li.o2021 a {background:url(../images/20211.gif) no-repeat 0 -100px;}
 #menu li.o2022 a {background:url(../images/20221.gif) no-repeat 0 -100px;}
+#menu li.o2023 a {background:url(../images/20231.gif) no-repeat 0 -100px;}
 
 #contents{
 	position: relative;
