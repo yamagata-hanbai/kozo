@@ -1,0 +1,190 @@
+div#h_menu{
+	margin:0px;
+	padding:0px;
+	padding-top:7px;
+	border:0px;
+	background-image:url('vmenu_header.gif');
+	background-repeat:no-repeat;
+	position:absolute;
+	top:69px;
+	left:51px;
+	width:901;
+	height:72px;
+	display:block;
+}
+div#h_menu div{
+	display:inline;
+	float:left;
+}
+div.h_menuItem{
+	display:inline;
+	margin:0px;
+	padding:0px;
+	border:0px;
+	height:32px;
+	overflow:hidden;
+	float:left;
+}
+/*horizontal menu styles*/
+img.home{
+	width:150px;
+	height:32px;
+}
+img.homeOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	left:-150px;
+	visibility:hidden;
+}
+img.dsearch{
+	width:150px;
+	height:32px;
+	position:relative;
+	left:-150px;
+}
+img.dsearchOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	left:-300px;
+	visibility:hidden;
+}
+img.lineup{
+	width:150px;
+	height:32px;
+	position:relative;
+	left:-300px;
+}
+img.lineupOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	left:-450px;
+	visibility:hidden;
+}
+img.event{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:450px;
+}
+img.eventOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:300px;
+	visibility:hidden;
+}
+img.csearch{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:300px;
+}
+img.csearchOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:150px;
+	visibility:hidden;
+}
+img.catalog{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:150px;
+}
+img.catalogOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	visibility:hidden;
+}
+img.used{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+}
+img.usedOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:-150px;
+	visibility:hidden;
+}
+img.maintenance{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:-150px;
+}
+img.maintenanceOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:-300px;
+	visibility:hidden;
+}
+img.accessary{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:-300px;
+}
+img.accessaryOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-32px;
+	left:-450px;
+	visibility:hidden;
+}
+img.loan{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-64px;
+	left:450px;
+}
+img.loanOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-64px;
+	left:300px;
+	visibility:hidden;
+}
+img.mailmagazine{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-64px;
+	left:300px;
+}
+img.mailmagazineOver{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-64px;
+	left:150px;
+	visibility:hidden;
+}
+img.blank{
+	width:150px;
+	height:32px;
+	position:relative;
+	top:-64px;
+	left:150px;
+}
