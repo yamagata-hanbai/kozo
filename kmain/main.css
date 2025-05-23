@@ -1,0 +1,142 @@
+body{
+
+	background-image: url(../images/bg_kessho5.gif);
+	background-repeat: repeat
+
+/*
+background: url(../images/clouds_3.gif) no-repeat center center;
+background-repeat: repeat;
+*/
+/*
+background:#ddd url(../images/clouds_3.gif) repeat center center;
+*/
+
+} 
+
+img{
+ display:block;
+ margin:0; padding:0;
+}
+
+#main{
+
+
+background-image: url(../images/001on.gif) , url(../images/onsen.gif);
+background-repeat:no-repeat , no-repeat;
+background-position: 515px 118px , 0px 0px;
+
+/*
+background-image: url(../images/sh1.gif) , url(../images/h28haru.jpg);
+*/
+/*
+background-image: url(../images/2017TSUYU.gif);
+*/
+/*
+background-image: url(../images/kozo_1.gif) , url(../images/160514.gif);
+*/
+/*
+background-image: url(../images/aki_03.gif);
+background-repeat:no-repeat , no-repeat;
+background-position: 0px 0px , 0px 0px;
+*/
+
+
+width: 720px; height: 162px; /*バナーの大きさ*/
+
+margin: 0 auto;
+}
+
+#menu ul{
+width:800px;
+}
+
+#menu li{
+float:left;
+margin-right:20px;
+margin-bottom:20px;
+height:50px;/*ボタンの大きさ*/
+width:180px;/*ボタンの大きさ*/
+list-style-type:none;
+}
+
+#menu a{
+text-decoration:none;
+color:#fff;
+width:180px;/*ボタンの大きさ*/
+height:50px;/*ボタンの大きさ*/
+display:block;
+}
+#menu a:hover{
+background-position:0px -50px;
+}
+
+#menu span{
+display:block;
+overflow:hidden;
+text-indent:-5000px;
+}
+
+#menu li.y2009 a {background:url(../images/20091.gif) no-repeat;}
+#menu li.y2010 a {background:url(../images/20101.gif) no-repeat;}
+#menu li.y2011 a {background:url(../images/20111.gif) no-repeat;}
+#menu li.y2012 a {background:url(../images/20121.gif) no-repeat;}
+#menu li.y2013 a {background:url(../images/20131.gif) no-repeat;}
+#menu li.y2014 a {background:url(../images/20141.gif) no-repeat;}
+#menu li.y2015 a {background:url(../images/20151.gif) no-repeat;}
+#menu li.y2016 a {background:url(../images/20161.gif) no-repeat;}
+#menu li.y2017 a {background:url(../images/20171.gif) no-repeat;}
+#menu li.y2018 a {background:url(../images/20181.gif) no-repeat;}
+#menu li.y2019 a {background:url(../images/20191.gif) no-repeat;}
+#menu li.y2020 a {background:url(../images/20201.gif) no-repeat;}
+#menu li.y2021 a {background:url(../images/20211.gif) no-repeat;}
+#menu li.y2022 a {background:url(../images/20221.gif) no-repeat;}
+
+#menu li.y2009 a:hover {background:url(../images/20091.gif) no-repeat 0px -50px;}
+#menu li.y2010 a:hover {background:url(../images/20101.gif) no-repeat 0px -50px;}
+#menu li.y2011 a:hover {background:url(../images/20111.gif) no-repeat 0px -50px;}
+#menu li.y2012 a:hover {background:url(../images/20121.gif) no-repeat 0px -50px;}
+#menu li.y2013 a:hover {background:url(../images/20131.gif) no-repeat 0px -50px;}
+#menu li.y2014 a:hover {background:url(../images/20141.gif) no-repeat 0px -50px;}
+#menu li.y2015 a:hover {background:url(../images/20151.gif) no-repeat 0px -50px;}
+#menu li.y2016 a:hover {background:url(../images/20161.gif) no-repeat 0px -50px;}
+#menu li.y2017 a:hover {background:url(../images/20171.gif) no-repeat 0px -50px;}
+#menu li.y2018 a:hover {background:url(../images/20181.gif) no-repeat 0px -50px;}
+#menu li.y2019 a:hover {background:url(../images/20191.gif) no-repeat 0px -50px;}
+#menu li.y2020 a:hover {background:url(../images/20201.gif) no-repeat 0px -50px;}
+#menu li.y2021 a:hover {background:url(../images/20211.gif) no-repeat 0px -50px;}
+#menu li.y2022 a:hover {background:url(../images/20221.gif) no-repeat 0px -50px;}
+
+#menu li.o2009 a {background:url(../images/20091.gif) no-repeat 0 -100px;}
+#menu li.o2010 a {background:url(../images/20101.gif) no-repeat 0 -100px;}
+#menu li.o2011 a {background:url(../images/20111.gif) no-repeat 0 -100px;}
+#menu li.o2012 a {background:url(../images/20121.gif) no-repeat 0 -100px;}
+#menu li.o2013 a {background:url(../images/20131.gif) no-repeat 0 -100px;}
+#menu li.o2014 a {background:url(../images/20141.gif) no-repeat 0 -100px;}
+#menu li.o2015 a {background:url(../images/20151.gif) no-repeat 0 -100px;}
+#menu li.o2016 a {background:url(../images/20161.gif) no-repeat 0 -100px;}
+#menu li.o2017 a {background:url(../images/20171.gif) no-repeat 0 -100px;}
+#menu li.o2018 a {background:url(../images/20181.gif) no-repeat 0 -100px;}
+#menu li.o2019 a {background:url(../images/20191.gif) no-repeat 0 -100px;}
+#menu li.o2020 a {background:url(../images/20201.gif) no-repeat 0 -100px;}
+#menu li.o2021 a {background:url(../images/20211.gif) no-repeat 0 -100px;}
+#menu li.o2022 a {background:url(../images/20221.gif) no-repeat 0 -100px;}
+
+#contents{
+	position: relative;
+}
+
+#contents img.ucar{
+	position: absolute;
+	top: 214px;
+	left: 338px;
+}
+
+#contents2{
+	position: relative;
+}
+
+#contents2 img.ucar{
+	position: absolute;
+	top: 0px;
+	left: 257px;
+}
