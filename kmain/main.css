@@ -1,13 +1,13 @@
 body{
 
-
+/*
 	background-image: url(../images/momiji3.png);
 	background-repeat: repeat
+*/
 
-/*
 background: url(../images/clouds_3.gif) no-repeat center center;
 background-repeat: repeat;
-*/
+
 /*
 background:#ddd url(../images/clouds_3.gif) repeat center center;
 */
@@ -32,17 +32,17 @@ background-image: url(../images/sh1.gif) , url(../images/h28haru.jpg);
 /*
 background-image: url(../images/2017TSUYU.gif);
 */
-/*
-background-image: url(../images/kozo_1.gif) , url(../images/160514.gif);
-*/
 
+background-image: url(../images/kozo_1.gif) , url(../images/160514.gif);
+
+/*
 background-image: url(../images/aki_03.gif);
 background-repeat:no-repeat , no-repeat;
 background-position: 0px 0px , 0px 0px;
+*/
 
 
-
-width: 720px; height: 162px; /*バナーの大きさ*/
+width: 720px; height: 162px; /*繝舌リ繝ｼ縺ｮ螟ｧ縺阪＆*/
 
 margin: 0 auto;
 }
@@ -55,16 +55,16 @@ width:800px;
 float:left;
 margin-right:20px;
 margin-bottom:20px;
-height:50px;/*ボタンの大きさ*/
-width:180px;/*ボタンの大きさ*/
+height:50px;/*繝懊ち繝ｳ縺ｮ螟ｧ縺阪＆*/
+width:180px;/*繝懊ち繝ｳ縺ｮ螟ｧ縺阪＆*/
 list-style-type:none;
 }
 
 #menu a{
 text-decoration:none;
 color:#fff;
-width:180px;/*ボタンの大きさ*/
-height:50px;/*ボタンの大きさ*/
+width:180px;/*繝懊ち繝ｳ縺ｮ螟ｧ縺阪＆*/
+height:50px;/*繝懊ち繝ｳ縺ｮ螟ｧ縺阪＆*/
 display:block;
 }
 #menu a:hover{
